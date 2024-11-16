@@ -1,0 +1,33 @@
+# Distribution / packaging
+build/
+dist/
+downloads/
+MANIFEST
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.vscode/
+.tests/
+
+.DS_Store
+docs/.DS_Store
+tmp/
+test_env/
+**/.DS_Store
+**/.DS_Store
+
+todo.md
+git_changes.md
+git_issues.md
+
+.tests/
+.issues/
+.docs/
+.ai/
